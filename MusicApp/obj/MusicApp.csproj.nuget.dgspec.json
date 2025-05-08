@@ -1,26 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/oa/Developer/school/jaar-2/spoticli-oop/SpotiCLI/MusicApp/MusicApp.csproj": {}
+    "C:\\OOP-SpotiCLI\\SpotiCLI\\MusicApp\\MusicApp.csproj": {}
   },
   "projects": {
-    "/Users/oa/Developer/school/jaar-2/spoticli-oop/SpotiCLI/MusicApp/MusicApp.csproj": {
+    "C:\\OOP-SpotiCLI\\SpotiCLI\\MusicApp\\MusicApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/oa/Developer/school/jaar-2/spoticli-oop/SpotiCLI/MusicApp/MusicApp.csproj",
+        "projectUniqueName": "C:\\OOP-SpotiCLI\\SpotiCLI\\MusicApp\\MusicApp.csproj",
         "projectName": "MusicApp",
-        "projectPath": "/Users/oa/Developer/school/jaar-2/spoticli-oop/SpotiCLI/MusicApp/MusicApp.csproj",
-        "packagesPath": "/Users/oa/.nuget/packages/",
-        "outputPath": "/Users/oa/Developer/school/jaar-2/spoticli-oop/SpotiCLI/MusicApp/obj/",
+        "projectPath": "C:\\OOP-SpotiCLI\\SpotiCLI\\MusicApp\\MusicApp.csproj",
+        "packagesPath": "C:\\Users\\Tawfi\\.nuget\\packages\\",
+        "outputPath": "C:\\OOP-SpotiCLI\\SpotiCLI\\MusicApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/oa/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Tawfi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "/Users/oa/.dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/oa/.dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
